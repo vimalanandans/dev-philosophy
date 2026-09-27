@@ -1,6 +1,6 @@
 # AI-Native Workspace UX Brief
 
-Build an original, English-first AI-native web workspace. Use the interaction principles below as inspiration only; do not copy AGPL code, assets, labels, screens, schemas, or exact visual styling from a reference product.
+Build an original, English-first AI-native web workspace. Use the interaction principles below; do not copy any copywrite (GPL, AGPL) code, assets, labels, screens, schemas, or exact visual styling from a reference product. Use permissive licensees for web app development
 
 The product should feel calm, capable, and trustworthy: users navigate on the left, do focused work in the center, and open contextual tools on the right.
 
